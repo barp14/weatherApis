@@ -4,7 +4,8 @@ Este é um projeto simples de API que fornece dados de clima para diferentes cid
 
 ## Estrutura do Projeto
 
-- `app.py`: Arquivo principal que contém o código da API.
+- `app_a.py`: Arquivo que contém o código da API que consome a API de clima.
+- `app_b.py`: Arquivo que contém o código da API de clima.
 - `requirements.txt`: Arquivo com as dependências necessárias para rodar o projeto.
 
 ## Requisitos
