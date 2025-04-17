@@ -22,7 +22,7 @@ Para rodar este projeto, você precisa de:
    git clone https://seu_repositorio.git
    cd nome_do_repositorio
    pip install flask
-
+   pip install redis
 
 2. Rode os apps
 
